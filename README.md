@@ -5,6 +5,13 @@
 
 ### Quem sou eu?
 
-atualmente estudante de uma instituição federal, tenho conhecimento em
-diversas lingaguens, sendo elas: java, c++, html, css e javascript.
+Atualmente estudante de uma IFTM, cursando desenvolvimento de sistema.
+
+### Áreas de conhecimento:
+
+**java,
+c++,
+html,
+css** e 
+**javascript.**
 
